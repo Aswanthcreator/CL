@@ -60,6 +60,6 @@ ffmpeg-python==0.2.0
 apscheduler
 colorama
 Levenshtein==0.24.0
-
-# Git-based Packages
-git+https://github.com/DreamXBotz/cinemagoer
+git+https://github.com/MKN-BOTZ/pyrogram
+#---imdb---#
+git+https://github.com/cinemagoer/cinemagoer
